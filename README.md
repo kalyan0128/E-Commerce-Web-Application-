@@ -3,7 +3,7 @@
 
 A comprehensive full-stack e-commerce web application designed for online shoe retail, offering a seamless, secure, and scalable shopping experience for users and administrators.
 
-![https://github.com/kalyan0128/E-Commerce-Web-Application-/blob/main/Ecommerce.png)
+![](Ecommerce.png)
 
 ## Project Overview
 
